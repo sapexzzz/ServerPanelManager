@@ -1,0 +1,9 @@
+# Python packages — install with:
+#   pip install -r requirements.txt
+psutil>=5.9.0
+
+# System dependencies (install via your package manager):
+#   tmux        — required for server session management
+#   java (21+)  — Debian/Ubuntu: sudo apt install openjdk-21-jre-headless
+#   tar, gzip   — usually pre-installed
+#   nano        — optional, default editor for server.properties
